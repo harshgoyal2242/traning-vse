@@ -1,0 +1,2 @@
+# traning-vse
+projects
